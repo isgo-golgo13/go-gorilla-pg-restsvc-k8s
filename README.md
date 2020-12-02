@@ -1,5 +1,5 @@
 # go-gorilla-pg-restsvc-kustomize
-K8s Kustomize GitOps for Golang Project for Web Service go-gorilla-pg-restsvc
+K8s Kustomize GitOps for Golang Project for Web Service go-gorilla-pg-restsvc at Github repo `https://github.com/isgo-golgo13/go-gorilla-pg-restsvc-kustomize.git`
 
 
 ### Development Workflow
